@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1647869911969,885,HTTP Request - OBB - 10 User,200,OK,OBB_10_User 1-1,text,true,,205629,116,2,2,https://www.oebb.at/en/,643,0,585
+1647869912822,1023,HTTP Request - OBB - 10 User,200,OK,OBB_10_User 1-2,text,true,,205629,116,2,2,https://www.oebb.at/en/,224,0,188
+1647869914822,500,HTTP Request - OBB - 10 User,200,OK,OBB_10_User 1-4,text,true,,205629,116,2,2,https://www.oebb.at/en/,249,0,202
+1647869916830,454,HTTP Request - OBB - 10 User,200,OK,OBB_10_User 1-6,text,true,,205629,116,3,3,https://www.oebb.at/en/,205,0,177
+1647869917819,485,HTTP Request - OBB - 10 User,200,OK,OBB_10_User 1-7,text,true,,205629,116,3,3,https://www.oebb.at/en/,182,0,153
+1647869918820,452,HTTP Request - OBB - 10 User,200,OK,OBB_10_User 1-8,text,true,,205629,116,3,3,https://www.oebb.at/en/,177,0,143
+1647869913821,21046,HTTP Request - OBB - 10 User,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to www.oebb.at:443 [www.oebb.at/195.69.192.140] failed: Connection timed out: connect,OBB_10_User 1-3,text,false,,2750,0,4,4,https://www.oebb.at/en/,0,0,21046
+1647869915820,21044,HTTP Request - OBB - 10 User,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to www.oebb.at:443 [www.oebb.at/195.69.192.140] failed: Connection timed out: connect,OBB_10_User 1-5,text,false,,2750,0,3,3,https://www.oebb.at/en/,0,0,21043
+1647869919819,21058,HTTP Request - OBB - 10 User,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to www.oebb.at:443 [www.oebb.at/195.69.192.140] failed: Connection timed out: connect,OBB_10_User 1-9,text,false,,2750,0,2,2,https://www.oebb.at/en/,0,0,21058
+1647869920822,21030,HTTP Request - OBB - 10 User,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to www.oebb.at:443 [www.oebb.at/195.69.192.140] failed: Connection timed out: connect,OBB_10_User 1-10,text,false,,2750,0,1,1,https://www.oebb.at/en/,0,0,21030
